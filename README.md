@@ -1,4 +1,4 @@
-# Welcome to the Learning Journey "SAP UI5 Development Learning journey"
+# Welcome to the Learning Journey "SAP UI5 Development"
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/sapui5-development-learning-journey)](https://api.reuse.software/info/github.com/sapui5-development-learning-journey)
 
 Welcome to this repository for the learning journey "SAP UI5 Development Learning journey" published on [SAP Learning](https://learning.sap.com/learning-journey/). We provide a starting template for the exercises as well as a dedicated branch for each exercise with its final solution.
